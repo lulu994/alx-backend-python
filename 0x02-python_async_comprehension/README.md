@@ -1,7 +1,5 @@
 # 0x02. Python - Async Comprehension
 
-![img](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/ee85b9f67c384e29525b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240319%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240319T104139Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=6d3d31fc6da59b88bd17fae605585e5cc96ea3808b5c08cfdf992eb9df17629c)
-
 This project contains tasks for learning:
 
 + How to write an asynchronous generator
